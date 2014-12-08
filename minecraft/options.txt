@@ -1,8 +1,8 @@
 music:0.0
-sound:0.41549295
+sound:0.70422536
 invertYMouse:false
-mouseSensitivity:0.5
-fov:0.0
+mouseSensitivity:0.62676054
+fov:0.5
 gamma:1.0
 viewDistance:0
 guiScale:2
