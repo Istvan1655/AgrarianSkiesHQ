@@ -1,11 +1,11 @@
 music:0.0
-sound:0.70422536
+sound:0.41549295
 invertYMouse:false
 mouseSensitivity:0.62676054
 fov:0.5
 gamma:1.0
 viewDistance:2
-guiScale:2
+guiScale:3
 particles:1
 bobView:false
 anaglyph3d:false
